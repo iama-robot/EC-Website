@@ -1,0 +1,38 @@
+body{
+  height:100%;
+}
+h1, h2, h3{
+text-align: center;
+}
+.header{
+  padding:10rem;
+text-align: center;
+  background-color:black;
+  color:white;
+}
+.logbox{
+  padding:10rem;
+  height:100%;
+}
+.btn{
+  margin-top: 2rem;
+}
+.choice{
+  font-family: "Ubuntu";
+background-color: white;
+padding:0;
+}
+.sg{
+
+  font-family: 'Montserrat', sans-serif;
+  padding: 3rem;
+  background-color: #11999E;
+}
+.post{
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.candidates{
+  margin: 2rem;
+}
